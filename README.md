@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sodiqiyanda93
-- 👀 I’m interested in Product Design and Data Analytics
-- 🌱 I’m currently learning Product Design
-- 💞️ I’m looking to collaborate on peer-reviewed projects on Product Design and Data Analytics
-- 📫 How to reach me on "sodiqiyanda93@gmail.com"
+- 👋 Hi, I’m Sodiq Iyanda
+- 👀 I’m a budding Data Analyst
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on peer-reviewed projects on Data Analytics
+- 📫 Mail me via "sodiqiyanda93@gmail.com" or message Sodiq Iyanda on LinkedIn.
 
 <!---
 sodiqiyanda93/sodiqiyanda93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
